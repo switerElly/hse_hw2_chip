@@ -15,9 +15,7 @@ PC-9 | H3K79me2 | ENCFF392RHX | ENCFF197OPO | ENCFF163PYU
 
 ENCFF392RHX | ENCFF197OPO | ENCFF163PYU 
 --- | --- | --- 
-![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-21.png) | 
-![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-25.png) | 
-![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-27.png)
+![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-21.png) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-25.png) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-02%2022-05-27.png)
 
       
  Из данных табличек можем сделать вывод, что большинство анализов проведены корректно и с ними можно работать.
