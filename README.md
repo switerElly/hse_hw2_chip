@@ -40,12 +40,12 @@ ENCFF392RHX | ENCFF197OPO | ENCFF163PYU
 Для реплики 1 (ENCFF392RHX)
 Количество участков для реплики 1 и ENCFF279CPR  | Количество участков для ENCFF279CPR и реплики 1
 --- | --- 
-![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Intervene_venn.pdf) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Intervene_venn%20(1).pdf)
+![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-03%2020-33-19.png) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-03%2020-33-42.png)
      
 Для реплики 2 (ENCFF197OPO)
 Количество участков для реплики 2 и ENCFF279CPR  | Количество участков для ENCFF279CPR и реплики 2
 --- | --- 
-![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Intervene_venn%20(2).pdf) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Intervene_venn%20(3).pdf)
+![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-03%2020-33-55.png) | ![](https://github.com/switerElly/hse_hw2_chip/blob/main/img/Screenshot%20from%202024-03-03%2020-34-03.png)
 
 Из диаграмм видно, что у нас не очень большое количество пересечений. Это можно объяснить следующим: в наших репликах было небольшое количество пиков из-за выравнивания только на одну хромосому, в то время как образец из ENCODE был выровнен на все хромосомы, так что имел много пиков. В пересечении одних и тех же файлов разное, ведь кличество пиков из одного файла, которые есть во втором файле != количеству пиков из второго файла, которые есть во первом. 
 
@@ -58,6 +58,6 @@ Heatmap для .bam файлов и соотвествующих им .bigWig ф
   
 ngs.plot для ENCFF347OCC.bam | ngs.plot для ENCFF636MHF.bam
 --- | --- 
-![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/NIR.png) | ![](https://github.com/ulvivl/hse_hw2_chip/blob/main/img/UVW.png)
+
      
 Полученные графики для .bam файлов похожи на типичное расположение гистоновой метки относительно генов. Наш график имеет сильно похожее на теоретическое расположение (рисунок выже).
